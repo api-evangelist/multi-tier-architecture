@@ -1,14 +1,20 @@
+aid: multi-tier-architecture
 name: Multi-tier Architecture
 description: A software architecture pattern that separates an application into logical
   layers or tiers, typically presentation, business logic, and data access layers,
-  to improve modularity, scalability, and maintainability. It is used across a range
-  of industries and technical contexts to improve efficiency and outcomes.
+  to improve modularity, scalability, and maintainability.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://en.wikipedia.org/wiki/Multitier_architecture
 tags:
 - Architecture
 - Design Patterns
 - Software Engineering
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
