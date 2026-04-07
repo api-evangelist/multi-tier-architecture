@@ -1,5 +1,5 @@
 aid: multi-tier-architecture
-name: Multi-tier Architecture
+name: Multi-Tier Architecture
 description: A software architecture pattern that separates an application into logical
   layers or tiers, typically presentation, business logic, and data access layers,
   to improve modularity, scalability, and maintainability.
