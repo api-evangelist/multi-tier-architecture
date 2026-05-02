@@ -5,18 +5,27 @@ A software architecture pattern that separates an application into logical layer
 
 ## Scope
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - Architecture, Design Patterns, Software Engineering
+ - Architecture, Design Patterns, Layered Architecture, N-Tier, Scalability, Software Engineering
 
 ## Timestamps
 
-- **Created:** 2025 
-- **Modified:** 2026-03-16 
+- **Created:** 2025
+- **Modified:** 2026-04-28
+
+## APIs
+
+No APIs have been documented yet. Check back for updates.
+
+## Common Properties
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Multitier_architecture)
+- [Reference](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
 
 ## Maintainers
 
