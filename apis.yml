@@ -5,7 +5,7 @@ description: >-
   layers or tiers, typically presentation, business logic, and data access
   layers, to improve modularity, scalability, and maintainability.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://en.wikipedia.org/wiki/Multitier_architecture
 tags:
   - Architecture
