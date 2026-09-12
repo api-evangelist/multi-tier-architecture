@@ -1,4 +1,5 @@
 aid: multi-tier-architecture
+x-type: concept
 name: Multi-Tier Architecture
 description: >-
   A software architecture pattern that separates an application into logical
