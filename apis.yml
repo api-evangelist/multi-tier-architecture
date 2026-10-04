@@ -1,6 +1,7 @@
 aid: multi-tier-architecture
 x-type: concept
 name: Multi-Tier Architecture
+kind: topic
 description: >-
   A software architecture pattern that separates an application into logical
   layers or tiers, typically presentation, business logic, and data access
